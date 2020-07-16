@@ -1,6 +1,6 @@
 # jquery.beauty.nestedfield V1.0.1
 
-A simple jquery plugig that allow get or set properties by name, nested properties inclusive
+A simple jquery plugin, that allow get or set properties by name, nested properties inclusive.
 
 ## How to use 
 Setting a value
